@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Math Magician
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my math magician that project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Author
+👤 **Davian Beroni**
+
+- GitHub: [dadadon](https://github.com/dadadon)
+- Twitter: [Davian Beroni](https://twitter.com/davianberoni)
+- LinkedIn: [Davian Beroni](https://www.linkedin.com/in/davian-beroni-502351b7/)
+
+## Acknowledgments
+
+- Microverse
+
+## 📝 License This project is [MIT](./MIT.md) licensed.
