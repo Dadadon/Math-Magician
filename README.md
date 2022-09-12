@@ -1,6 +1,6 @@
 # Math Magician
 
-This is my math magician that project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my math magician project that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
