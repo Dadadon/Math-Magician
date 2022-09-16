@@ -19,7 +19,6 @@ class Calculator extends React.PureComponent {
 
   handleClick = (event) => {
     this.setState((state) => calculate(state, event.target.textContent));
-    console.log(this.state);
   };
   
   render() {
