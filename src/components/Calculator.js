@@ -113,7 +113,7 @@ class Calculator extends React.PureComponent {
           </Col>
           <Col>
             <Button variant="secondary" className="w-100" onClick={this.handleClick}>
-              7
+              3
             </Button>
           </Col>
           <Col>
