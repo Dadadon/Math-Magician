@@ -20,7 +20,10 @@
     "import/no-unresolved": "off",
     "no-shadow": "off",
     "react/display-name": "off",
-    "no-trailing-spaces": "off"
+    "no-trailing-spaces": "off",
+    "linebreak-style": "off",
+    "quotes": "off",
+    "max-len": "off"
   },
   "ignorePatterns": [
     "dist/",
