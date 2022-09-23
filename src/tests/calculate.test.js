@@ -9,4 +9,3 @@ import calculate from '../components/logic/calculate';
     const value = { total: 4, next: null, operation: '+' };
     expect(calculate(data, '+')).toEqual(value);
 });
-  
