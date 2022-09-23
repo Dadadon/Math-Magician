@@ -1,0 +1,267 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Calculator correctly 1`] = `
+<div
+  className="d-grid gap-2 mt-5 pt-5 container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      <p
+        className="mb-0 text-end"
+      />
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-secondary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        AC
+      </button>
+    </div>
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-secondary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+    </div>
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-secondary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+    </div>
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-warning"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-secondary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+    </div>
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-secondary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+    </div>
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-secondary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+    </div>
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-warning"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-secondary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+    </div>
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-secondary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+    </div>
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-secondary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+    </div>
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-warning"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-secondary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+    </div>
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-secondary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+    </div>
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-secondary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+    </div>
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-warning"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col-6"
+    >
+      <button
+        className="w-100 btn btn-secondary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+    </div>
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-secondary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+    </div>
+    <div
+      className="col"
+    >
+      <button
+        className="w-100 btn btn-warning"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</div>
+`;
